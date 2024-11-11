@@ -1,0 +1,15 @@
+Java != JS
+
+PC -> http request -> Server
+PC  <-     html    <- Server
+
+JS: Brendan Eich + Netscape  Lightscript
+
+1996 Livescript a Javascript
+1997 ECMA-262 first standard
+2005 ES5
+2015 ES6 actualización más grande hasta el momento
+Posterior a ello se continuaron haciendo lanzamientos anuales
+
+
+Polyfill: Es un código que provee el funcionamiento de una nueva característica de JS (ES6), en versiones viejas como ES5
