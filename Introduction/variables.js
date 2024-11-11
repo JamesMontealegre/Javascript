@@ -6,6 +6,8 @@ var b = 10;
 
 let a = 10,
   d = 40,
-  e = 50;  
+  e = 50;
 
 const c = 10;
+
+console.table({ a, b, c, d, e });
